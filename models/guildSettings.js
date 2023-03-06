@@ -20,6 +20,10 @@ const GuildData = new mongoose.Schema({
   hourlyAmt: {
     type: String,
     default: 500
+  },
+  custom: {
+    type: String,
+    default: null
   }
 });
 

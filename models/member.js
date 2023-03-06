@@ -26,6 +26,9 @@ const MemberData = new mongoose.Schema({
   lastUsedHourly: {
     type: Date,
   },
+  lastUsedCustom: {
+    type: Date,
+  },
   inventory: {
     type: Array,
     default: []
