@@ -13,9 +13,13 @@ const GuildData = new mongoose.Schema({
     type: String,
     default: 10000
   },
-   dailyAmt: {
+  dailyAmt: {
     type: String,
     default: 2000
+  },
+  hourlyAmt: {
+    type: String,
+    default: 500
   }
 });
 
