@@ -1,21 +1,21 @@
 {
-  "name": "@shinchanop/mongo-eco",
+  "name": "mongo-ainz",
   "version": "1.0.1",
   "description": "A powerful module that allows you to create economy system in your bot.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "shinchanop",
+  "author": "ainz",
   "license": "GPL-3.0",
   "dependencies": {
    "mongoose": "^6.4.6"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Yash094/mongo-eco.git"
+    "url": "git@github.com/mojoxUltra/mongo-ainz/.git"
   },
-  "homepage": "https://github.com/Mongo-Eco",
+  "homepage": "https://github.com/mojoxUltra/mongo-ainz",
   "keywords": [
     "eco-mongo",
     "mongoeco",
@@ -36,6 +36,6 @@
     "test": "test"
   },
   "bugs": {
-    "url": "https://github.com/Yash094/mongo-eco/issues"
+    "url": "https://github.com/mojoxUltra/mongo-ainz/issues"
   }
 }
