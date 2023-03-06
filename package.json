@@ -9,7 +9,7 @@
   "author": "ainz",
   "license": "GPL-3.0",
   "dependencies": {
-   "mongoose": "^6.4.6"
+   "mongoose": "^5.13.2"
   },
   "repository": {
     "type": "git",
