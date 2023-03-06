@@ -1,5 +1,5 @@
 //importing the files
-const eco = require("./lib/Meme");
+const eco = require("./lib/MongoEco");
 /**
   * @param {string} token | Mongo URL string}
   * returns {Economy Class}
